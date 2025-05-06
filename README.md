@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-A passionate frontend developer from Nicaragua<br><br>🌱 I’m currently learning React<br><br>📫 How to reach me https://portfolio-two-tau-26.vercel.app/
+A passionate frontend developer from Nicaragua<br><br>🌱 I’m currently learning React and Vue<br><br>📫 How to reach me https://portfolio-two-tau-26.vercel.app/
 
 ## 🌐 Socials:
 
